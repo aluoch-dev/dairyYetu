@@ -11,5 +11,12 @@
             "email": "laurinealuoch7@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "laravel/framework": "^5.3"
+    },
+    "config": {
+        "allow-plugins": {
+            "kylekatarnls/update-helper": true
+        }
+    }
 }
